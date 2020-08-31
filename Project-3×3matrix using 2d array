@@ -1,0 +1,24 @@
+Include<stidio.h>
+Int (main)
+{
+ int i,j;
+ Char matrix;
+ int arr1[3,3],i,j;
+  printf("\n\n read data from 2d array of size 3×3 and print the matrix:\n");
+  For(i=0;i<=3,I++){
+  For(j=0;j<=3,j++){
+   printf("element=[%d],[%d]");
+   Scanf("%d",&arr[I],[j]);
+   }
+  }
+   For(I=0;i<=3;I++){
+   For(j=0;j<=3,j++){
+    printf("%d");
+    }
+   printf ("\n");
+  }
+  return 0;
+}
+    
+    
+  
